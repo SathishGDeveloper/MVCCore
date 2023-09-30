@@ -1,0 +1,12 @@
+2023-09-30 22:24:04.128 +05:30 [INF] Entering Assigment.Controllers.MoveNext :
+2023-09-30 22:24:04.145 +05:30 [INF] Repositories call from Assigment.Controllers.MoveNext :
+2023-09-30 22:24:04.145 +05:30 [INF] Entering Assigment.Repositories.MoveNext :
+2023-09-30 22:24:04.145 +05:30 [INF] Entering Assigment.Services.MoveNext :
+2023-09-30 22:24:04.145 +05:30 [INF] Service call from Assigment.Services.MoveNext :
+2023-09-30 22:24:04.149 +05:30 [INF] Assigment.MoveNext completed successfully
+2023-09-30 22:24:17.465 +05:30 [INF] Entering Assigment.Controllers.MoveNext :
+2023-09-30 22:24:17.482 +05:30 [INF] Repositories call from Assigment.Controllers.MoveNext :
+2023-09-30 22:24:17.482 +05:30 [INF] Entering Assigment.Repositories.MoveNext :
+2023-09-30 22:24:17.483 +05:30 [INF] Entering Assigment.Services.MoveNext :
+2023-09-30 22:24:17.483 +05:30 [INF] Service call from Assigment.Services.MoveNext :
+2023-09-30 22:24:17.486 +05:30 [INF] Assigment.MoveNext completed successfully

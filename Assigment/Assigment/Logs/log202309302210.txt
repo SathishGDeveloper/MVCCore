@@ -1,0 +1,6 @@
+2023-09-30 22:10:31.454 +05:30 [INF] Entering Assigment.Controllers.MoveNext :
+2023-09-30 22:10:32.250 +05:30 [INF] Repositories call from Assigment.Controllers.MoveNext :
+2023-09-30 22:10:33.758 +05:30 [INF] Entering NetCoreCRUDESQL.Repositories.MoveNext :
+2023-09-30 22:10:34.879 +05:30 [INF] Entering Assigment.Services.MoveNext :
+2023-09-30 22:10:35.408 +05:30 [INF] Service call from Assigment.Services.MoveNext :
+2023-09-30 22:10:40.792 +05:30 [INF] Assigment.MoveNext completed successfully
